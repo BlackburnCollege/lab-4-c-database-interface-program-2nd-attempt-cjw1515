@@ -24,4 +24,21 @@
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Cards.csv">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Ownership.csv">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Rarity.csv">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Sets.csv">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Types.csv">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
 </Project>
